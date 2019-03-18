@@ -5,6 +5,7 @@ FAODEL.
 
 Note: Only R&A'd documents belong here.
 
+- [2018/06/11 Science Cloud Paper](./180611_widener_scicloud18.pdf): Overview paper about FAODEL for Data Management in Next Gen Workflows (2018)
 - [2018/02/05 ECP Poster](./180205_ulmer_ecp_poster_snl_data_management_30x40.pdf): General SNL I/O poster for Exascale Computing Meeting (2018)
 - [2017/11/13 EMPRESS PDSW Paper](./171113_lawson_pdsw_empress_paper.pdf): Margaret & Jay's paper on Metadata Services
 - [2017/11/13 EMPRESS PDSW Slides](./171113_lawson_pdsw_empress_slides.pdf): Margaret's slides for EMPRESS
